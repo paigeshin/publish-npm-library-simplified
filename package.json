@@ -1,6 +1,6 @@
 {
-  "name": "tiny-npm-deploy-paigeshin",
-  "version": "1.0.0",
+  "name": "tiny-npm-deploy-paigeshin-test",
+  "version": "1.2.0",
   "main": "index.js",
   "publishConfig": {
     "access": "public"
