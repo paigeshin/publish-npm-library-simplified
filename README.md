@@ -1,4 +1,4 @@
-[Medium Artilce <<=](https://paigeshin1991.medium.com/publish-your-npm-library-with-typescript-in-3-minutes-c60670670cbc)
+[==> Medium Artilce <==](https://paigeshin1991.medium.com/publish-your-npm-library-with-typescript-in-3-minutes-c60670670cbc)
 
 # Project Configuration
 
